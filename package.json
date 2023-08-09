@@ -36,7 +36,7 @@
     "nodemon": "^1.11.0"
   },
   "publishConfig": {
-    "registry": "http://your-nexus-server-ip:8081/repository/npm-proxy/"
+    "registry": "http://54.152.37.199:8081/repository/repo-nexus/"
   },
   "engines": {
     "node": "6.9.1"
