@@ -37,7 +37,7 @@
   },
   "publishConfig": {
     "registry": "http://your-nexus-server-ip:8081/repository/npm-proxy/"
-  }
+  },
   "engines": {
     "node": "6.9.1"
   }
