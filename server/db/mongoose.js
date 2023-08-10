@@ -3,7 +3,7 @@ var mongoose = require('mongoose');
 mongoose.Promise = global.Promise;
 
 // Change the database connection URL with yours
-mongoose.connect('mongodb://tatareddymarolix:a1pjcq9ykdsroseq@cluster0.ptzqraw.mongodb.net/?retryWrites=true&w=majority', {
+mailto:mongoose.connect('mongodb+srv://prasanthmarolix:lij1au6ekibgbwaj@cluster0.buix3wg.mongodb.net/?retryWrites=true&w=majority', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 }).then(() => {
