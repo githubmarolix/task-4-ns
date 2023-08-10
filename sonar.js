@@ -6,7 +6,6 @@ sonarqubeScanner({
     'sonar.login': 'fb464caca0058c777645e903c868262699a2cbf1',
     'sonar.sources': './',
     'sonar.exclusions': 'node_modules/**,public/**,views/**,test/**',
-    'sonar.login': 'your-sonarqube-login-token',
     'sonar.projectKey': 'nhs-app',
     'sonar.projectName': 'NHS App',
   },
