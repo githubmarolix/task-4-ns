@@ -36,7 +36,7 @@
     "nodemon": "^1.11.0"
   },
   "publishConfig": {
-    "registry": "http://54.152.37.199:8081/repository/repo-nexus/"
+    "registry": "http://54.227.118.127:8081/repository/npm-nexus/"
   },
   "engines": {
     "node": "6.9.1"
