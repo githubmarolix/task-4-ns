@@ -6,12 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
-    "sonar": "node sonar.js",
-    "publishConfig": {
+    "sonar": "node sonar.js"
+  },
+  "publishConfig": {
     "registry": "http://18.205.244.49:8081/repository/npm-nexus-hosted/"
   },
   "engines": {
-     "node": "6.9.1"
+    "node": "6.9.1"
   },
   "author": "",
   "license": "ISC",
