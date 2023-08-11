@@ -9,7 +9,7 @@
     "sonar": "node sonar.js"
   },
   "publishConfig": {
-    "registry": "http://18.205.244.49:8081/repository/npm-nexus-hosted/"
+    "registry": "http://18.205.244.49:8081/repository/npm-nexus-proxy/"
   },
   "engines": {
     "node": "6.9.1"
