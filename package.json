@@ -8,7 +8,7 @@
     "start": "node app.js",
     "sonar": "node sonar.js",
     "publishConfig": {
-    "registry": "http://54.227.118.127:8081/repository/npm-nexus/"
+    "registry": "http://18.205.244.49:8081/repository/npm-nexus-hosted/"
   },
   "engines": {
      "node": "6.9.1"
