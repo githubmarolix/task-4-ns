@@ -1,9 +1,9 @@
 const sonarqubeScanner = require('sonarqube-scanner');
 
 sonarqubeScanner({
-  serverUrl: 'http://3.87.239.204:9000',
+  serverUrl: 'http://3.90.7.52:9000',
   options: {
-    'sonar.login': '5afcca0c3955fae6fd92a83eece58ae842071d1a',
+    'sonar.login': '17c9128383fb4b05d15363f9fca0c67d51ffd58d',
     'sonar.sources': './',
     'sonar.exclusions': 'node_modules/**,public/**,views/**,test/**',
     'sonar.projectKey': 'nhs-app',
