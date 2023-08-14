@@ -9,7 +9,7 @@
     "sonar": "node sonar.js"
   },
   "publishConfig": {
-    "registry": "http://184.73.122.117:8081/repository/reddy-npm/"
+    "registry": "http://44.202.45.146:8081/repository/nexus-proxy/"
   },
   "engines": {
     "node": "6.9.1"
