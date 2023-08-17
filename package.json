@@ -9,7 +9,7 @@
     "sonar": "node sonar.js"
   },
   "publishConfig": {
-    "registry": "http://44.202.45.146:8081/repository/nexus-proxy/"
+    "registry": "http://52.91.61.87:8081/repository/srinu-proxy/"
   },
   "engines": {
     "node": "6.9.1"
